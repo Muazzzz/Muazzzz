@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muazzzz
-- 👀 I’m interested in Unity Game Development
-- 🌱 I’m currently learning Unity 
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Data Analytic/Engineering/Science
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me muazaamir97@gmail.com
 
